@@ -1,0 +1,15 @@
+h1{
+    color: mediumseagreen;
+    font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif;
+}
+h2{
+    color: palegreen;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+h3{
+    color: seagreen;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+body{
+    background-color: rgb(255, 157, 250);
+}
